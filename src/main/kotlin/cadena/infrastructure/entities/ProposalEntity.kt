@@ -1,4 +1,4 @@
-package cadena.infraestructure.entities
+package cadena.infrastructure.entities
 
 import cadena.domain.models.ProposalModel
 import cadena.domain.models.ProposalStatus

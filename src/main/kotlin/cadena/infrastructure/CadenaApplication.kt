@@ -1,4 +1,4 @@
-package cadena.infraestructure
+package cadena.infrastructure
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
